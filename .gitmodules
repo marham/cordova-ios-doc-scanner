@@ -1,0 +1,3 @@
+[submodule "IPDFCameraViewController"]
+	path = IPDFCameraViewController
+	url = https://github.com/mmackh/IPDFCameraViewController.git
